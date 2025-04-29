@@ -101,9 +101,9 @@ I'm a **Senior Full Stack Developer** based in **India 🇮🇳** who loves buil
 
 ## 🌟 Professional Experience
 
-- **Senior Full Stack Developer** at Company Name (2020 - Present)
-- **Full Stack Engineer** at Company Name (2018 - 2020)
-- **Frontend Developer** at Company Name (2016 - 2018)
+- **Senior Software Developer** at Creative Buffer (2024 - Present)
+- **Lead Developer** at Offingo (2022 - 2024)
+- **React Native Developer** at Karonda Ecosystems PVT LTD (2021 - 2022)
 
 ## 📊 GitHub Activity
 
