@@ -1,92 +1,120 @@
-<h1 align="center">🚀 Welcome to My Digital Space</h1>
-<h3 align="center">Senior Full Stack Developer | MERN Expert | Passionate Innovator | Based in India 🇮🇳</h3>
+<div align="center">
+  
+# Manjodh Singh
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manjodhsaran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+### Senior Full Stack Developer | MERN Expert | Cloud Solutions Architect
+
+<p>
+  <a href="https://linkedin.com/in/manjodh-singh-saran-48a29a169"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:manjodhsaran1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/manjodhsaran"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=manjodhsaran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-## 🛠 About Me  
-
-👋 Hey there! I'm **Manjodh Singh**, a **Senior Full Stack Developer** specializing in **MERN Stack** with a deep passion for crafting scalable, high-performance applications. With years of experience building robust solutions, I thrive on solving complex problems and staying ahead in the tech world.
-
-💡 **What drives me?**  
-- Creating seamless digital experiences with modern web technologies  
-- Architecting efficient backend systems for high-performance applications  
-- Continuously learning, experimenting, and pushing boundaries  
-
-🚀 **Current Focus**: Advanced MERN Stack Development, Scalable Web Applications, and AI-powered solutions.
-
----
-
-## 💻 Tech Stack  
-
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### 🔧 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-### ⚙️ Programming Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### 📱 Mobile Development  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-
-### 🖌️ UI/UX & Design  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe%20xd&logoColor=white)
-
-### 🛠 Tools & DevOps  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjodhsaran&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=manjodhsaran&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjodhsaran&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjodhsaran&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manjodhsaran&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 👨‍💻 About Me
 
----
+I'm a **Senior Full Stack Developer** based in **India 🇮🇳** who loves building scalable digital solutions and tackling complex technical challenges. With extensive experience across the stack, I specialize in creating high-performance applications that deliver exceptional user experiences.
 
-## 🌍 Let's Connect!  
+- 🔭 Currently working on **cloud-native MERN applications**
+- 🌱 Learning advanced **AWS architectures** and **Go microservices**
+- 💬 Ask me about **React, Node.js, Cloud Architecture, or System Design**
+- 🚀 Always open to collaborate on innovative projects
 
-<p align="center">
-<a href="https://linkedin.com/in/manjodh-singh-saran-48a29a169" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+## 🛠️ Tech Expertise
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Frontend</h3>
+      <div>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </div>
+      <h3>Mobile</h3>
+      <div>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+      </div>
+      <h3>UI/UX</h3>
+      <div>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Backend</h3>
+      <div>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </div>
+      <h3>Cloud & DevOps</h3>
+      <div>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+      </div>
+      <h3>Languages</h3>
+      <div>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 📚 Featured Projects
+
+<div align="center">
+<a href="https://github.com/manjodhsaran/project-name">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manjodhsaran&repo=your-repo-name&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://instagram.com/manjodhsaran" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://github.com/manjodhsaran/project-name">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manjodhsaran&repo=your-repo-name&theme=tokyonight&hide_border=true" />
 </a>
-<a href="mailto:manjodhsaran1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
+</div>
+
+## 💡 What I Do
+
+- **Full-Stack Development**: End-to-end web application development with React, Next.js, Node.js
+- **Cloud Architecture**: Designing robust AWS-based infrastructure for scalable applications
+- **API Development**: RESTful and GraphQL API implementations with Node.js and Go
+- **DevOps**: CI/CD pipelines, containerization, and cloud deployment automation
+- **Mobile Development**: Cross-platform mobile apps with React Native
+
+## 🌟 Professional Experience
+
+- **Senior Full Stack Developer** at Company Name (2020 - Present)
+- **Full Stack Engineer** at Company Name (2018 - 2020)
+- **Frontend Developer** at Company Name (2016 - 2018)
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjodhsaran&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-<p align="center">⚡ Always open to collaborating on exciting projects! Let's build something amazing together.</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Let's_build_something_amazing_together!-FF5722?style=for-the-badge" alt="Let's Build" />
+  
+  💼 Open to new opportunities | 💻 Available for freelance work | 🤝 Looking for collaborations
+</div>
