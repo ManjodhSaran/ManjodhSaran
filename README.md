@@ -14,7 +14,7 @@
 
 Building scalable digital products from India. I work across the full stack — from pixel-perfect UIs to cloud infrastructure — and care deeply about performance, developer experience, and clean architecture.
 
-- Currently at **Creative Buffer** as Senior Software Developer
+- Currently **freelancing** — building full-stack products for clients
 - Learning **Go microservices** and advanced **AWS architectures**
 - Open to collaborations, freelance work, and new opportunities
 
@@ -38,7 +38,8 @@ Building scalable digital products from India. I work across the full stack — 
 
 | Role | Company | Period |
 |------|---------|--------|
-| Senior Software Developer | Creative Buffer | 2024 – Present |
+| Freelance Full Stack Developer | Self-employed | 2025 – Present |
+| Senior Software Developer | Creative Buffer | 2024 – 2025 |
 | Lead Developer | Offingo | 2022 – 2024 |
 | React Native Developer | Karonda Ecosystems | 2021 – 2022 |
 
