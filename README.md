@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A5F,100:0D9488&height=200&section=header&text=Manjodh%20Singh%20Saran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%C2%B7%20Mobile%20%26%20Full-Stack&descAlignY=55&descSize=16" width="100%" alt="header" />
+<h1>Manjodh Singh Saran</h1>
+
+<p><b>Senior Software Engineer</b> &nbsp;&#183;&nbsp; Mobile &amp; Full-Stack &nbsp;&#183;&nbsp; Real-time logistics</p>
 
 <a href="https://manjodh.org">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=0D9488&center=true&vCenter=true&width=620&lines=Real-time+logistics+at+scale;React+Native+%C2%B7+FastAPI+%C2%B7+Go+%C2%B7+AWS;60fps+on+a+mid-range+Android;Shipping+since+2021" alt="what I do" />
@@ -136,8 +138,6 @@ Inventory and dispatch for a brick kiln. Demo live.
 
 Lifting 3x a week — the only reason the rest of this is sustainable.
 
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,50:1E3A5F,100:0B1220&height=120&section=footer" width="100%" alt="footer" />
+<sub>Building from Ludhiana &#183; <a href="https://manjodh.org">manjodh.org</a></sub>
 
 </div>
