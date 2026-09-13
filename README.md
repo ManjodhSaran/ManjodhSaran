@@ -1,130 +1,143 @@
 <div align="center">
 
-# Manjodh Singh Saran
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A5F,100:0D9488&height=200&section=header&text=Manjodh%20Singh%20Saran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20·%20Mobile%20%26%20Full-Stack&descAlignY=55&descSize=16" width="100%" alt="header" />
 
-**Senior Software Engineer** &nbsp;·&nbsp; Mobile &amp; Full-Stack &nbsp;·&nbsp; Real-time logistics
+<a href="https://manjodh.org">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=0D9488&center=true&vCenter=true&width=620&lines=Real-time+logistics+at+scale;React+Native+%C2%B7+FastAPI+%C2%B7+Go+%C2%B7+AWS;60fps+on+a+mid-range+Android;Shipping+since+2021" alt="what I do" />
+</a>
 
-<a href="https://manjodh.org"><img src="https://img.shields.io/badge/Portfolio-manjodh.org-0B1220?style=flat-square&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/manjodh-saran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:manjodhsaran1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<br /><br />
+
+<a href="https://manjodh.org"><img src="https://img.shields.io/badge/Portfolio-manjodh.org-0D9488?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/manjodh-saran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:manjodhsaran1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=ManjodhSaran&style=for-the-badge&color=0D9488&label=VISITORS" alt="views" />
 
 </div>
 
----
+<br />
 
-I build **real-time mobile and backend systems** — currently at [Truxo](https://truxo.ai), where live load and fleet tracking for the US trucking industry has to stay correct while trucks, drivers and networks all misbehave at once.
-
-Five years in, mostly on the hard half of "full stack": state that syncs, screens that stay at 60fps on a mid-range Android in a dead zone, and APIs that don't fall over when the data arrives late and out of order.
-
-```
-Ludhiana, Punjab, India  ·  IST (UTC+5:30)  ·  open to interesting problems
-```
-
----
-
-### Currently
-
-- **Building** real-time load tracking at Truxo — React Native · Expo · FastAPI · PostgreSQL
-- **Shipping** SimpLife, an encrypted personal-services app (cards · garage · expenses)
-- **Learning** Go services and deeper AWS architecture
-- **Lifting** 3x a week, which is the only reason the other three are sustainable
-
----
-
-### Ship log
-
-Things that made it to real users, not just to `main`.
-
-| | Product | What it is | Stack |
-|:--|:--|:--|:--|
-| 📱 | **Truxo / FleetPulse** | Real-time load &amp; fleet tracking, US trucking | React Native · Expo · FastAPI · PostgreSQL |
-| 🎓 | **Super School** | School management app — live on iOS &amp; Android | React Native · Node |
-| 💪 | **Fit 4 Life** | Fitness tracking app | React Native |
-| 🧪 | **Lab Reports Pro** | Diagnostics reporting | React Native · Node |
-| 🤖 | **Algo trading system** | MT5 execution bot for a client — indicator porting, backtesting with honest cost models, live since Aug 2026 | Python · MQL5 |
-| 🚿 | **Luxe Wash** | Car-wash business site | Web |
-
-> The trading system's source is under client NDA — happy to talk through the architecture, not the code.
-
----
-
-### Side projects
-
-<details>
-<summary><b>SimpLife</b> — encrypted personal-services app</summary>
+> Live load and fleet tracking for US trucking — keeping it correct while trucks, drivers and networks all misbehave at once.
+> Five years in, mostly on the hard half of full-stack: state that syncs, screens that stay smooth in a dead zone, APIs that survive late and out-of-order data.
 
 <br />
 
-Cards, garage and expenses in one place, encrypted on-device. Currently in the finance module.
-**RN/Expo 54 · Node · Express · Prisma**
+<div align="center">
 
-</details>
+### 🛠 &nbsp;Stack
 
-<details>
-<summary><b>AI Vault</b> — local-first document vault</summary>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,fastapi,go,py&theme=dark" alt="stack 1" />
+<br />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,aws,firebase,vercel,tailwind,figma,git&theme=dark" alt="stack 2" />
+
+</div>
 
 <br />
 
-Scan → OCR → auto-classify → search → ask it questions and get cited answers → get reminded before things expire. No account, no cloud in phase 1.
-**React Native · Expo · on-device OCR**
+## 🚢 &nbsp;Ship log
 
-</details>
+<div align="center">
 
-<details>
-<summary><b>E-Invites</b> — animated wedding invites as a service</summary>
+| | Product | What it is | Built with |
+|:-:|:--|:--|:--|
+| 🚚 | **Truxo / FleetPulse** | Real-time load & fleet tracking, US trucking | <img src="https://skillicons.dev/icons?i=react,fastapi,postgres&theme=dark" height="22" /> |
+| 🎓 | **Super School** | School management — live on iOS & Android | <img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" height="22" /> |
+| 💪 | **Fit 4 Life** | Fitness tracking app | <img src="https://skillicons.dev/icons?i=react&theme=dark" height="22" /> |
+| 🧪 | **Lab Reports Pro** | Diagnostics reporting | <img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" height="22" /> |
+| 🤖 | **Algo trading system** | MT5 execution bot — indicator porting, honest-cost backtesting, live since Aug 2026 | <img src="https://skillicons.dev/icons?i=py&theme=dark" height="22" /> |
+| 🚿 | **Luxe Wash** | Car-wash business site | <img src="https://skillicons.dev/icons?i=js&theme=dark" height="22" /> |
+
+<sub>Trading system source is under client NDA — happy to talk architecture, not code.</sub>
+
+</div>
 
 <br />
 
-A web link plus an MP4 teaser, generated rather than hand-built.
-**Vite · React · GSAP · Remotion · Firebase**
+## 🧪 &nbsp;Building on the side
 
-</details>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>Bricks</b> — brick management system</summary>
+### 🔐 SimpLife
+Cards, garage and expenses in one place — encrypted on-device. Currently in the finance module.
 
-<br />
+`RN/Expo 54` `Node` `Express` `Prisma`
 
+</td>
+<td width="50%" valign="top">
+
+### 📂 AI Vault
+Scan → OCR → auto-classify → ask it questions, get cited answers → reminders before things expire. No account, no cloud.
+
+`React Native` `Expo` `on-device OCR`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💌 E-Invites
+Animated wedding invites as a service — a web link plus an MP4 teaser, generated rather than hand-built.
+
+`Vite` `React` `GSAP` `Remotion`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧱 Bricks
 Inventory and dispatch for a brick kiln. Demo live.
-**AWS · Supabase**
 
-</details>
+`AWS` `Supabase`
 
----
-
-### Stack
-
-**Mobile** &nbsp; React Native · Expo
-**Frontend** &nbsp; React · Next.js · TypeScript · Redux · Tailwind
-**Backend** &nbsp; Node.js · Express · FastAPI · Go
-**Data** &nbsp; PostgreSQL · MongoDB · Prisma
-**Cloud** &nbsp; AWS · Firebase · Vercel · CI/CD
-**Design** &nbsp; Figma → code · Photoshop · Illustrator · After Effects
-
----
-
-<details>
-<summary>GitHub stats</summary>
+</td>
+</tr>
+</table>
 
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=manjodhsaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=manjodhsaran&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manjodhsaran&layout=compact&theme=tokyonight&hide_border=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjodhsaran&layout=compact&hide_border=true" alt="Top languages" />
-  </picture>
+
+## 🐍 &nbsp;Watch my contributions get eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManjodhSaran/ManjodhSaran/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManjodhSaran/ManjodhSaran/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ManjodhSaran/ManjodhSaran/output/github-snake-dark.svg" alt="contribution snake" width="100%" />
+</picture>
+
+
 </div>
 
-<sub>Most of my work ships in private and client repos, so this only tells part of the story.</sub>
+<br />
+
+<details>
+<summary><b>📊 &nbsp;GitHub stats</b></summary>
+
+<br />
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ManjodhSaran&theme=tokyonight&hide_border=true&background=0B1220&ring=0D9488&fire=0D9488&currStreakLabel=0D9488&sideLabels=ffffff&dates=8B949E" alt="contribution streak" />
+
+<br />
+
+<sub>Most of my work ships in private and client repos — this only tells part of the story.</sub>
+
+</div>
 
 </details>
 
----
+<br />
 
 <div align="center">
-<sub>Building from Ludhiana · <a href="https://manjodh.org">manjodh.org</a></sub>
+
+### 🏋️ &nbsp;Off the clock
+
+Lifting 3x a week — the only reason the rest of this is sustainable.
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,50:1E3A5F,100:0B1220&height=120&section=footer" width="100%" alt="footer" />
+
 </div>
